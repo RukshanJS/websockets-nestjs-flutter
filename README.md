@@ -1,9 +1,15 @@
+# Documentation
+
+Full documentation and the article series can be found here,
+
+[Article on dev.to](https://dev.to/rukshanjs/part-13-how-to-create-a-server-side-timer-using-websockets-with-socketio-nestjs-and-flutter-3821)
 
 # Output
 
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lizparehhc4mvl48kbig.gif" width="200">
 
 # Setup
+
 ## Run Locally
 
 Clone the project
@@ -23,6 +29,7 @@ Install dependencies for backend
 ```bash
   cd backend/server-timer-backend
 ```
+
 ```bash
   npm install
 ```
@@ -48,11 +55,6 @@ Run flutter app
 ```bash
   flutter run
 ```
-
-# Documentation
-
-[Article on dev.to](https://dev.to/rukshanjs/part-13-how-to-create-a-server-side-timer-using-websockets-with-socketio-nestjs-and-flutter-3821)
-
 
 # Support me
 
