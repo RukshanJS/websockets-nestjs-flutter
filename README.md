@@ -50,6 +50,11 @@ Run flutter app
   flutter run
 ```
 
+# Documentation
+
+[Article on dev.to](https://dev.to/rukshanjs/part-13-how-to-create-a-server-side-timer-using-websockets-with-socketio-nestjs-and-flutter-3821)
+
+
 # Support me
 
 Do you think I deserve a cup of coffee for this project? 😃
