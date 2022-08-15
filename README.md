@@ -1,4 +1,9 @@
 
+# Output
+
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lizparehhc4mvl48kbig.gif" width="200">
+
+# Setup
 ## Run Locally
 
 Clone the project
@@ -44,3 +49,9 @@ Run flutter app
 ```bash
   flutter run
 ```
+
+# Support me
+
+Do you think I deserve a cup of coffee for this project? 😃
+
+<a href="https://www.buymeacoffee.com/rukshanjs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
