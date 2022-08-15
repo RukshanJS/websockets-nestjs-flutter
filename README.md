@@ -21,7 +21,10 @@ Go to the project directory
 Install dependencies for backend
 
 ```bash
-  cd backend/server-timer-backend && npm install
+  cd backend/server-timer-backend
+```
+```bash
+  npm install
 ```
 
 Start the backend server
@@ -30,7 +33,7 @@ Start the backend server
   npm run start:dev
 ```
 
-Navigate to the frontend application
+At the root folder `websockets-nestjs-flutter`, Navigate to the frontend application
 
 ```bash
   cd frontend/server_timer_frontend
